@@ -53,7 +53,7 @@ st.markdown("""
                    text-align: center;
                    background-color: #f1f1f1;
                    z-index: 9">
-        Royal Oman Police - Public FAQ Bot
+        Royal Oman Police - Manual Chatbot
     </h1>
 """, unsafe_allow_html=True)
 
